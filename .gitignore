@@ -1,0 +1,5 @@
+/.idea/
+Makefile.local
+logs/*
+!logs/.gitignore
+app/node_modules
